@@ -12,7 +12,8 @@ namespace HelloWorld
         {
             int a = 10;
             int b = 20;
-            Console.WriteLine(a + b);
+            int c = 30;     
+            Console.WriteLine(a + b + c);
             Console.WriteLine("Hello World Ravinder and Shilpi");
             Console.WriteLine("Hello World shra");
             Console.ReadLine();
